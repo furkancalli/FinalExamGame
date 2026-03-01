@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 5d0446c85d6454f6abda4e255c2aa925
+  - enabled: 1
+    path: Assets/Scenes/OpenWorld.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Racing.unity
+    guid: 74337558fef0043f8bd5284659a16592
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 1d882902a25d84bf784fc40ba74da276
+  - enabled: 1
+    path: Assets/Scenes/BossFight.unity
+    guid: dac69e57e2541c14f9f91d2b96d11eed
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
